@@ -1,0 +1,38 @@
+﻿
+.styleM
+{
+	text-align: center;
+	color: #000080;
+	font-family: Cambria;
+}
+        
+.styleP
+{
+	text-align: center;
+	color: #990000;
+	font-family: Cambria;
+	font-weight: bold;
+}
+.styleL
+{
+	text-align:left;
+	color: #000080;
+	font-family: Cambria;
+	font-weight: bold;
+}
+
+.styleN
+{
+	text-align:left;
+	color: #000080;
+	font-family: Cambria;
+
+}
+
+.styleER
+{
+	text-align: left;
+	color: #FF0000;
+	font-family: Cambria;
+	
+}
